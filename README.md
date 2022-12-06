@@ -1,4 +1,4 @@
-# Forecast-model-with-SARIMA-for-stocks-investmant-
+# Forecast-model-with-SARIMA-for-stocks-investment
 
 La previsión de series temporales utiliza datos y patrones históricos para predecir nuevas tendencias y el comportamiento futuro de los datos. Este método se utiliza en patrones de datos cíclicos. La previsión de series temporales se utiliza para predecir comportamientos, tendencias y patrones futuros mediante el análisis de grandes cantidades de datos antiguos.
 
